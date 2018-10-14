@@ -1,0 +1,11 @@
+{
+    "name": "rolemanager",
+    "version": "1.0.0",
+    "description": "Role Manager Bot for Discord",
+    "main": "bot.js",
+    "author": "David Kossally",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.1.0"
+    }
+}
